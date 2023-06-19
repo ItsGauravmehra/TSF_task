@@ -1,2 +1,8 @@
-# TSF_task
-This project is a part of the internship program offered by The Sparks Foundation. The Basic Banking System is designed to simulate a simplified banking system that allows users to perform basic banking operations, 
+# Basic-Banking-System-Project
+#GRIPJUNE23  ,  #TSF  ,  #THE SPARKS FOUNDATION  ,  #TASK 1 
+Basic-banking-system Basic Banking System
+ ◇ Create a simple dynamic website which has the following specs. 
+ ◇ Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened. 
+ ◇ Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
+  ◇ No Login Page. No User Creation. Only transfer of money between multiple users.
+ 
